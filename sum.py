@@ -1,6 +1,6 @@
 def sum(a,b):
-	sum=a+b
-	return sum
+	total=a+b
+	return total
 
 x=sum(5,6)
 print(x)
